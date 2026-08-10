@@ -59,10 +59,10 @@
   <a href="https://www.linkedin.com/in/abdul-riyaz-547138329/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
+  <a href="https://github.com/Riyaz-ProDev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:riyaz97120@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
