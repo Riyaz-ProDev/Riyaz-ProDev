@@ -56,7 +56,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdul-riyaz-547138329/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-riyaz786/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Riyaz-ProDev" target="_blank">
