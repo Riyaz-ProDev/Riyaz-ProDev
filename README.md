@@ -236,16 +236,17 @@ I am actively practicing **Data Structures & Algorithms using Java** to improve 
 ---
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Riyaz-ProDev&show_icons=true&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riyaz-ProDev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz-ProDev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🔥 GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyaz-ProDev&theme=tokyonight" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=Riyaz-ProDev&theme=tokyonight&hide_border=true)
 
 ---
-
 
 
 ---
