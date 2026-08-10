@@ -234,22 +234,19 @@ I am actively practicing **Data Structures & Algorithms using Java** to improve 
 * 🚀 Software Engineering & Modern Development Practices
 
 ---
-
-
 # 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riyaz-ProDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz-ProDev&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Riyaz-ProDev&show_icons=true&theme=tokyonight" />
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Riyaz-ProDev&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyaz-ProDev&theme=tokyonight" />
+
+---
+
+
 
 ---
 
