@@ -1,20 +1,22 @@
 # 👋 Hi, I'm ABDUL RIYAZ
 
-🎓 **B.Tech Information Technology Student** at Sri Indu College of Engineering & Technology, Hyderabad
+<p align="center">
+  <b>Software Engineering Aspirant | Java | DSA | Full-Stack Development | AI/ML</b>
+</p>
 
-💻 **Software Engineering Aspirant | Java | DSA | Full-Stack Development | AI/ML**
-
-🚀 Passionate about building real-world applications, solving problems with code, and exploring AI-powered solutions.
+<p align="center">
+  <i>Building real-world applications • Solving problems • Learning continuously 🚀</i>
+</p>
 
 ---
 
 # 💫 About Me
 
-🎓 B.Tech Information Technology student with a strong interest in **Software Engineering and Full-Stack Development**.
+🎓 **B.Tech Information Technology Student** at **Sri Indu College of Engineering & Technology, Hyderabad**
 
-💻 I enjoy building web applications using modern technologies and continuously improving my programming and problem-solving skills.
+💻 I am a **Software Engineering Aspirant** passionate about building full-stack applications, solving programming problems, and exploring AI-powered technologies.
 
-🚀 Currently focused on:
+🚀 My current focus is on:
 
 * ☕ **Java & Data Structures and Algorithms**
 * 🌐 **Full-Stack Web Development**
@@ -25,45 +27,54 @@
 * 🏗️ **Backend Development & System Design**
 * ☁️ **Cloud & Modern Technologies**
 
-🛠️ Building projects that solve real-world problems, including:
+🛠️ I enjoy turning ideas into working applications and building projects that solve real-world problems.
 
-* 🎯 **InterviewIQ** – AI-powered interview preparation platform
-* 💳 **Online Payments Fraud Detection** – Machine Learning-based fraud detection system
-* ⭐ **Full-Stack Store Rating Application** – Role-based store rating platform
-* 🌐 **Portfolio Website** – Personal developer portfolio
+### 🚀 What I'm Building
 
-📚 Constantly learning:
+🎯 **InterviewIQ** — AI-powered interview preparation platform
+
+💳 **Online Payments Fraud Detection** — Machine Learning-based fraud detection system
+
+⭐ **Full-Stack Store Rating Application** — Role-based web application with authentication, ratings, and admin management
+
+📚 Alongside development, I continuously practice **Java & DSA** to strengthen my problem-solving skills and prepare for technical interviews.
+
+### 📚 Currently Learning
 
 * Data Structures & Algorithms
-* Backend Architecture
 * Full-Stack Development
+* Backend Architecture
 * AI & Machine Learning
+* System Design
 * Cloud Technologies
-* Software Engineering Practices
+* Software Engineering Best Practices
 
-🤝 Open to:
+### 🤝 Open To
 
-* 💼 Internship Opportunities
-* 🌐 Full-Stack Development Projects
+* 💼 Software Engineering Internships
+* 🌐 Full-Stack Development Opportunities
 * 🤖 AI/ML Projects
+* 🚀 Real-World Software Projects
 * 🤝 Open Source Contributions
 * 💡 Technical Collaborations
 
-⚡ **Goal:** To become a skilled Software Engineer capable of building scalable, reliable, and impactful applications.
+### ⚡ My Goal
+
+> To become a skilled Software Engineer capable of designing and building scalable, reliable, and impactful software products.
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdul-riyaz786/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="YOUR-LINKEDIN-LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Riyaz-ProDev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:riyaz97120@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -74,54 +85,54 @@
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### 🛠️ Tools
+### 🛠️ Tools & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -130,9 +141,9 @@
 
 ## 🎯 InterviewIQ
 
-### AI-Powered Interview Preparation Platform
+### 🤖 AI-Powered Interview Preparation Platform
 
-InterviewIQ is an intelligent interview preparation platform designed to help students and job seekers prepare for technical interviews through structured practice and AI-powered assistance.
+**InterviewIQ** is an AI-powered interview preparation platform designed to help students and job seekers improve their technical interview skills through structured practice and intelligent assistance.
 
 ### ✨ Key Features
 
@@ -141,17 +152,19 @@ InterviewIQ is an intelligent interview preparation platform designed to help st
 * 💻 Technical interview preparation
 * 📚 Interview question practice
 * 📊 Performance and progress tracking
-* 👤 User-focused interview experience
+* 👤 Personalized interview experience
 
-**Technologies:** React.js • JavaScript • AI • REST APIs
+**Tech Stack:**
+
+`React.js` `JavaScript` `AI` `REST APIs`
 
 ---
 
 ## 💳 Online Payments Fraud Detection
 
-### Machine Learning-Based Fraud Detection System
+### 🔐 Machine Learning-Based Fraud Detection System
 
-A Machine Learning project designed to identify fraudulent online payment transactions and classify transactions as **Fraudulent or Genuine**.
+A Machine Learning application designed to identify fraudulent online payment transactions and classify transactions as **Fraudulent** or **Genuine**.
 
 ### ✨ Key Features
 
@@ -163,76 +176,61 @@ A Machine Learning project designed to identify fraudulent online payment transa
 * 📈 Data visualization
 * 🌐 Django-based web interface
 
-**Technologies:** Python • Pandas • Scikit-learn • Machine Learning • SMOTE • Django
+**Tech Stack:**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `SMOTE` `Django`
 
 ---
 
 ## ⭐ Full-Stack Store Rating Application
 
-### Role-Based Store Rating Platform
+### 🏪 Role-Based Store Rating Platform
 
-A full-stack web application that allows users to view stores and submit ratings, with separate functionality for administrators, normal users, and store owners.
+A full-stack web application that allows users to view stores and submit ratings, with different functionality for **Administrators, Normal Users, and Store Owners**.
 
 ### ✨ Key Features
 
 * 🔐 Authentication & Authorization
-* 👤 Role-based access control
-* ⭐ Store rating system
-* 🏪 Store management
-* 📊 Admin dashboard
-* 👨‍💼 User management
-* 🗄️ MySQL database
+* 👤 Role-Based Access Control
+* ⭐ Store Rating System
+* 🏪 Store Management
+* 📊 Admin Dashboard
+* 👨‍💼 User Management
+* 🗄️ MySQL Database
 * 🔌 REST APIs
 
-**Technologies:** React.js • Node.js • Express.js • MySQL • REST API
+**Tech Stack:**
 
----
-
-## 🌐 Portfolio Website
-
-### Personal Developer Portfolio
-
-A responsive portfolio website showcasing my projects, technical skills, certifications, and software development journey.
-
-### ✨ Highlights
-
-* 📱 Responsive design
-* 💼 Projects showcase
-* 🛠️ Technical skills
-* 🏆 Certifications
-* 👨‍💻 Developer profile
-
-**Technologies:** HTML • CSS • JavaScript
+`React.js` `Node.js` `Express.js` `MySQL` `REST APIs`
 
 ---
 
 # 🧠 Data Structures & Algorithms
 
-Currently practicing **DSA using Java** to strengthen my problem-solving skills and prepare for technical interviews.
+I am actively practicing **Data Structures & Algorithms using Java** to improve problem-solving skills and prepare for software engineering interviews.
 
-### 📚 Topics
+### 📚 Topics I'm Practicing
 
-* Arrays
-* Strings
-* Searching
-* Sorting
-* Recursion
-* Hashing
-* Two Pointers
-* Sliding Window
-* Linked Lists
-* Stacks
-* Queues
-* Trees
-* Problem Solving
+* 🔹 Arrays
+* 🔹 Strings
+* 🔹 Searching
+* 🔹 Sorting
+* 🔹 Recursion
+* 🔹 Hashing
+* 🔹 Two Pointers
+* 🔹 Sliding Window
+* 🔹 Linked Lists
+* 🔹 Stacks & Queues
+* 🔹 Trees
+* 🔹 Problem Solving
 
-🎯 **Goal:** Develop strong problem-solving skills and become interview-ready for Software Engineering roles.
+🎯 **Goal:** Build strong fundamentals and become confident in technical interviews.
 
 ---
 
 # 🏆 Certifications & Learning
 
-* 🎓 B.Tech in Information Technology
+* 🎓 B.Tech Information Technology
 * 🤖 Artificial Intelligence & Machine Learning
 * ☁️ AI & Cloud Technologies
 * 💻 Full-Stack Web Development
@@ -268,8 +266,8 @@ Currently practicing **DSA using Java** to strengthen my problem-solving skills 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 </p>
 
 ---
@@ -285,14 +283,14 @@ Currently practicing **DSA using Java** to strengthen my problem-solving skills 
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
 
 # 🤝 Open To
 
-* 💼 Internship Opportunities
+* 💼 Software Engineering Internships
 * 🌐 Full-Stack Development
 * 🤖 AI/ML Projects
 * 💻 Software Engineering Opportunities
@@ -309,22 +307,13 @@ Learn → Build → Practice → Improve → Repeat
 
 > 💡 I believe the best way to learn software development is by building real projects, solving problems, and continuously improving.
 
----
 
-# 🎯 2026 Goals
-
-* ☕ Strengthen Java & DSA
-* 💻 Become a strong Full-Stack Developer
-* 🤖 Build more AI-powered applications
-* 🏗️ Learn System Design
-* 🚀 Contribute to Open Source
-* 💼 Secure a Software Engineering Internship
-* 📚 Continuously improve problem-solving skills
-
----
-
-## ⭐ Thanks for Visiting My Profile!
 
 <p align="center">
-  <b>Building • Learning • Solving • Growing 🚀</b>
+  <b>🚀 Building the Future One Project at a Time</b>
 </p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
