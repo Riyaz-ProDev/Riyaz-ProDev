@@ -1,18 +1,16 @@
 # 👋 Hi, I'm ABDUL RIYAZ
 
-<p align="center">
-  <b>Software Engineering Aspirant | Java | DSA | Full-Stack Development | AI/ML</b>
-</p>
+### 💻 Software Engineering Aspirant
 
-<p align="center">
-  <i>Building real-world applications • Solving problems • Learning continuously 🚀</i>
-</p>
+**Java • Data Structures & Algorithms • Full-Stack Development • AI/ML**
+
+🚀 Building real-world applications • Solving problems • Learning continuously
+
+🎓 B.Tech Information Technology Student at **Sri Indu College of Engineering & Technology, Hyderabad**
 
 ---
 
 # 💫 About Me
-
-🎓 **B.Tech Information Technology Student** at **Sri Indu College of Engineering & Technology, Hyderabad**
 
 💻 I am a **Software Engineering Aspirant** passionate about building full-stack applications, solving programming problems, and exploring AI-powered technologies.
 
@@ -31,11 +29,9 @@
 
 ### 🚀 What I'm Building
 
-🎯 **InterviewIQ** — AI-powered interview preparation platform
-
-💳 **Online Payments Fraud Detection** — Machine Learning-based fraud detection system
-
-⭐ **Full-Stack Store Rating Application** — Role-based web application with authentication, ratings, and admin management
+* 🎯 **InterviewIQ** — AI-powered interview preparation platform
+* 💳 **Online Payments Fraud Detection** — Machine Learning-based fraud detection system
+* ⭐ **Full-Stack Store Rating Application** — Role-based web application with authentication, ratings, and admin management
 
 📚 Alongside development, I continuously practice **Java & DSA** to strengthen my problem-solving skills and prepare for technical interviews.
 
@@ -67,14 +63,14 @@
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="YOUR-LINKEDIN-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-riyaz786/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
+  <a href="https://github.com/Riyaz-ProDev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:riyaz97120@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -96,7 +92,7 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
@@ -239,63 +235,29 @@ I am actively practicing **Data Structures & Algorithms using Java** to improve 
 
 ---
 
-# 📈 My Development Journey
-
-```text
-        Programming
-             ↓
-        Java & DSA
-             ↓
-   Frontend Development
-             ↓
-          React.js
-             ↓
-   Backend Development
-             ↓
-    Databases & REST APIs
-             ↓
-   Full-Stack Applications
-             ↓
-      AI/ML Integration
-             ↓
-     Software Engineering
-```
-
----
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riyaz-ProDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz-ProDev&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 </p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Riyaz-ProDev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyaz-ProDev&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
-
----
-
-# 🤝 Open To
-
-* 💼 Software Engineering Internships
-* 🌐 Full-Stack Development
-* 🤖 AI/ML Projects
-* 💻 Software Engineering Opportunities
-* 🤝 Open Source Contributions
-* 🚀 Technical Collaborations
 
 ---
 
@@ -307,13 +269,24 @@ Learn → Build → Practice → Improve → Repeat
 
 > 💡 I believe the best way to learn software development is by building real projects, solving problems, and continuously improving.
 
+---
 
+# 🎯 2026 Goals
 
-<p align="center">
+* ☕ Strengthen Java & DSA
+* 💻 Become a strong Full-Stack Developer
+* 🤖 Build more AI-powered applications
+* 🏗️ Learn System Design
+* 🚀 Contribute to Open Source
+* 💼 Secure a Software Engineering Internship
+* 📚 Continuously improve problem-solving skills
+
+---
+
+<p align="left">
   <b>🚀 Building the Future One Project at a Time</b>
 </p>
 
-<p align="center">
+<p align="left">
   ⭐ Thanks for visiting my profile!
 </p>
-
