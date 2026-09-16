@@ -6,7 +6,7 @@
 
 🚀 Building real-world applications • Solving problems • Learning continuously
 
-🎓 B.Tech Information Technology Student at **Sri Indu College of Engineering & Technology, Hyderabad**
+🎓 B.Tech Information Technology Student at **Sri Indu College of Engineering & Technology, Hyderabad,Telangana**
 
 ---
 
