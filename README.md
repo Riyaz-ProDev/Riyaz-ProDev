@@ -24,6 +24,7 @@
 * 🤖 **Artificial Intelligence & Machine Learning**
 * 🏗️ **Backend Development & System Design**
 * ☁️ **Cloud & Modern Technologies**
+* ☁️ **Test Engineering**
 
 🛠️ I enjoy turning ideas into working applications and building projects that solve real-world problems.
 
