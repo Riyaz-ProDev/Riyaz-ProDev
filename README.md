@@ -34,7 +34,7 @@
 * 💳 **Online Payments Fraud Detection** — Machine Learning-based fraud detection system
 * ⭐ **Full-Stack Store Rating Application** — Role-based web application with authentication, ratings, and admin management
 
-📚 Alongside development, I continuously practice **Java & DSA** to strengthen my problem-solving skills and prepare for technical interviews.
+📚 Alongside development,I continuously practice **Java & DSA** to strengthen my problem-solving skills and prepare for technical interviews.
 
 ### 📚 Currently Learning
 
@@ -57,7 +57,7 @@
 
 ### ⚡ My Goal
 
-> To become a skilled Software Engineer capable of designing and building scalable, reliable, and impactful software products.
+> To become a skilled Software Engineer or developer  capable of designing and building scalable, reliable, and impactful software products.
 
 ---
 
