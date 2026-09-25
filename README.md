@@ -26,7 +26,7 @@
 * ☁️ **Cloud & Modern Technologies**
 * ☁️ **Test Engineering**
 
-🛠️ I enjoy turning ideas into working applications and building projects that solve real-world problems.
+🛠️I enjoy turning ideas into working applications and building projects that solve real-world problems.
 
 ### 🚀 What I'm Building
 
